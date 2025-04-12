@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-import plotly.express as px
+# import plotly.express as px
 
 
 st.set_page_config(page_title="📊 Insurance Data Analysis & Model Comparison", layout="wide")
