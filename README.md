@@ -43,8 +43,8 @@ A Streamlit web application for analyzing insurance data and comparing different
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/insurance-data-analysis.git
-   cd insurance-data-analysis
+   git clone https://github.com/adi99304/Insurance_prediction.git
+   cd Insurance_prediction
    ```
 
 2. Create a virtual environment (optional but recommended):
