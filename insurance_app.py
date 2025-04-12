@@ -2,14 +2,14 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-# import seaborn as sns
+import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
-# import plotly.express as px
+import plotly.express as px
 
 
 st.set_page_config(page_title="📊 Insurance Data Analysis & Model Comparison", layout="wide")
